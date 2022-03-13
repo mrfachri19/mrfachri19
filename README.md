@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Fachri Maulana Pakpahan</h1>
 <h3 align="center">I am fullstack Web developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **in Arkademy Tech Academy**
+- 🌱 I’m currently work **in PT. Swamedia Informatika as Frontend Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrfachri19](https://github.com/mrfachri19)
 
