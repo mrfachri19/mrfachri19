@@ -9,17 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently Fulltime Freelancer**
+- 🔭 I’m currently Frontend Developer**
 
 - 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **react, next**
+- 💬 Ask me about **react, next, nodejs**
 
-- 📫 How to reach me **https://www.linkedin.com/in/fachri-maulana/**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/fachri-maulana/](https://www.linkedin.com/in/fachri-maulana/)
-
-- ⚡ Fun fact **i am basketball player**
+- ⚡ i am have experience +- 4 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
