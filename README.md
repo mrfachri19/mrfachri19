@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, next, nodejs**
 
-- ⚡ i am have experience +- 4 years**
+- ⚡ i am have experience +4 years**
 
 <p align="left">
 </p>
